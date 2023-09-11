@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://waizinlinn08:1ZmjUytA0DKgr8c6@cluster0.d5es1dh.mongodb.net/?retryWrites=true&w=majority",
+  "jwtToken": "mySecretToken",
+  "githubClientId": "3a343f9c5d06376972f5",
+  "githubSecret": "6ef77c0009d131898437e0b2b1f59fbade186fc4"
+}
